@@ -58,7 +58,7 @@ class City {
 - private：避免外部代码直接去访问`field`
 - ...
 
-:question: 如何让外外部代码间接修改`field`
+:question: 如何让外部代码间接修改`field`
 
 :rotating_light:使用方法（`method`）
 

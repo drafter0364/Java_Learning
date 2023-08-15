@@ -1,4 +1,4 @@
-# Java Leaning - 入门
+# Java Learning - 入门
 
 `Java是一种面向对象的编程语言。面向对象编程，英文是Object-Oriented Programming，简称OOP。`
 
